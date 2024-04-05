@@ -1,2 +1,4 @@
 # Calculadora
-Mais um projeito inicial, fez parte da minha introdução a c#.
+Projeto de uma calculadora.
+
+Projeto retirado do repositório de introduução a C# -> https://github.com/Wurthma/CSharp-Iniciantes
