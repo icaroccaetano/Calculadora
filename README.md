@@ -1,7 +1,7 @@
 # Calculadora
 Backend project of a simple calculator
 
-# Program working
+# Using the program
 When the program stars, you need to enter a invalid input or the program will ask again for a valid.
 
 ![image](https://github.com/icaroccaetano/Calculadora/assets/84483036/5c90ce2e-e2d8-4a36-8c50-f7a794cc890b)
